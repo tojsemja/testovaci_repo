@@ -1,0 +1,4 @@
+skopirovat odkaz na repozitar
+slozka->prave
+gitclon:adresu si veme sam clon
+	nakopirovat co chci

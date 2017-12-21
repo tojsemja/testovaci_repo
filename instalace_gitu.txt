@@ -1,0 +1,22 @@
+zalozil jsem si ucet na github.org
+program: GitExtensions-2.50.02-SetupComplete.msi
+instalace:
+	pro vsechny
+	obe verze
+	nemenit instalacni slozku
+	mozno zvolit co udelat - zakazat zastupce na plose
+	nechat putty
+	licensni smlouva-precist
+	slozku nemenit
+	nic nemenit
+	-||-
+	-||-
+	-||-
+	prvni moznost
+	prvni moznost  		
+	zatrhnout vse		zkontrolovat ze jsem v poslednim okne
+	instalovat
+	zrusit zatrzitko
+	english
+	kdiff3-vse v poradku az na show readme-zrusit-->proklikat
+finish/2*finish
