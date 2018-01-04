@@ -20,3 +20,6 @@ instalace:
 	english
 	kdiff3-vse v poradku az na show readme-zrusit-->proklikat
 finish/2*finish
+
+
+No a to je vse.
