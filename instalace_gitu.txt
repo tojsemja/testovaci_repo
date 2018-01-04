@@ -22,4 +22,4 @@ instalace:
 finish/2*finish
 
 
-No a to je vse.
+No a to je vse. Coz je.
